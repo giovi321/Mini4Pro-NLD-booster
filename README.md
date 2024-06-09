@@ -29,11 +29,13 @@ Once you have taken the drone apart, you need to follow these steps
 1) remove the main board and the obstacle avoidance cameras from the top
 2) remove the three torx screws holding the battery connector in place and gently lift the battery connector from its place but do not remove it completely as it is not needed - I dont have pictures but you sinply have to remove the screws from the hole where the battery goes, then from the top of the drone (underneath the obstacle avoidance cameras) push a bit with tweezers the little PCB where the battery connector is installed. Now ok the back of the pcb lift gently the piece of adhesive plastic and you will expose the back side of the battwry connector. Here you need to identify correctly the contacts with the positive and negative and solder the wires that will go to the step-down voltage converter. 
 3) using a sharp blade, scratch the back of the connector to remove the masking from the PCB so that you can solder the wires - it will take quite some time to make the solder stick to those pads, don't over heat it (350 celsius is fine) and if it does not work just keep scraping them with a blade
-4) solder the wires according to the following pin out and cover with siliconic heat-conductive
-5) ![image](https://github.com/giovi321/Mini4Pro-NLD-booster/assets/6443515/4d84ec24-1892-418b-a313-3f99b1996834)
+4) solder the wires according to the following pin out of a Mini 4 Pro battery and cover with siliconic heat-conductive
+![image](https://github.com/giovi321/Mini4Pro-NLD-booster/assets/6443515/85232647-8a49-44d1-b3a3-88f20bb655ff)
+
 6) connect the step-down voltage converter to the battery and the booster board
 7) connect the EN pin of the step-down voltage converter to the inductance labelled with 2R2 as shown in the picutre below and cover with the siliconic heat conductive glue
-![image](https://github.com/giovi321/Mini4Pro-NLD-booster/assets/6443515/36ae4c4b-cdec-4184-966e-194c705ca234)
+![image](https://github.com/giovi321/Mini4Pro-NLD-booster/assets/6443515/4d84ec24-1892-418b-a313-3f99b1996834)
+
 
 8) glue with the siliconic glue the step-down converter board to the top of the obstacle avoidance sensors cluster
 ![image](https://github.com/giovi321/Mini4Pro-NLD-booster/assets/6443515/6e45433c-1c5e-4add-b2a9-b0326a34729f)
