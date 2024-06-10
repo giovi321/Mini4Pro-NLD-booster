@@ -6,14 +6,14 @@ NOTE: i am not going to explain how to disassemble the drone and the remote, you
 - DJI Mini 4 Pro: https://youtu.be/rLTtYpftaGs?feature=shared
 
 # Tools needed (bare minimum)
-- soldering iron with a very thin tip and capable of reacjing 370 celsius
+- soldering iron with a very thin tip and capable of reaching 370 celsius
 - siliconic non electrically conductive but heat condictive siliconic glue such as this one: ![image](https://github.com/giovi321/Mini4Pro-NLD-booster/assets/6443515/fb9df867-cef5-47da-afac-7003497bc3ed)
 
 - a sharp blade to scrape the PCB mask off the contacts
 - optional but highly recommended: some cheap tools to open electronic devices such as this: 
 ![image](https://github.com/giovi321/Mini4Pro-NLD-booster/assets/6443515/f758fa75-01d6-4dda-90e6-f5000c77d285)
 
-- electronic tester to check for polarity and connections
+- multimeter to check for polarity and connections
 - torx, hexagonal and phillips screwdrivers
 
 # General recommendations for the installation
