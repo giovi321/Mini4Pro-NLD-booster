@@ -68,8 +68,9 @@ Solder the positive and negative and connect to the step-up voltage coverter and
 After several trials and tests I came up with this odd but working solution.
 1) disconnect the two external antennas from the PCB (the ones identified with the labels "G" and "ANT0")
 2) using pliers you can remove the two external antennas from the body of the remote and swap them (the right antenna will go on the left and vice versa) - be careful: the antennas do not rotate 360 degrees so when you insert them back in place you need to orient them correctly in order to be able to slide them into the hole
-We are doing this because the cable of the right antenna is too short to reach the booster board (which we will place on the left of the fan), and we cannot use the left antenna as it is identified by the label G so I suspect it is the GPS antenna which we dont need to boost (and it uses a different frequency so it would be useless to connect the booster board). I tried using the internal antenna identified by the label "ANT0" and I got still decent but poorer results compared to the right external antenna.
-antenna.
+
+_We are doing this because the cable of the right antenna is too short to reach the booster board (which we will place on the left of the fan), and we cannot use the left antenna as it is identified by the label G so I suspect it is the GPS antenna which we dont need to boost (and it uses a different frequency so it would be useless to connect the booster board). I tried using the internal antenna identified by the label "ANT0" and I got still decent but poorer results compared to the right external antenna._
+
 ![image](https://github.com/giovi321/Mini4Pro-NLD-booster/assets/6443515/f2bc9e08-3cb4-4564-bdf7-241a2d84e6b5)
 
 
